@@ -30,4 +30,4 @@
 {"city" : "Macon",	"mascot" : "Missionaries",		"short" : "MAC", 	"homeText" : "FFFFFF",	"homeMain" : "00338D",	"homeSecondary" : "C60C30",	"awayText" : "00338D",	"awayMain" : "FFFFFF",  "awaySecondary" : "C60C30"},
 {"city" : "Perry",   "mascot" : "Thrillride",		"short" : "PER", 	"homeText" : "FFFFFF",	"homeMain" : "008E97",	"homeSecondary" : "FC4C02",	"awayText" : "008E97",	"awayMain" : "FFFFFF",  "awaySecondary" : "FC4C02"},
 {"city" : "Warner Robins",   		"mascot" : "Alphas",		"short" : "WR", 	"homeText" : "FFFFFF",	"homeMain" : "002244",	"homeSecondary" : "C60C30",	"awayText" : "002244",	"awayMain" : "FFFFFF",  "awaySecondary" : "C60C30"},
-{"city" : "Milledgeville",        	"mascot" : "Peacocks",		"short" : "NYJ", 	"homeText" : "FFFFFF",	"homeMain" : "125740",	"homeSecondary" : "000099",	"awayText" : "125740",	"awayMain" : "BDBDBD",  "awaySecondary" : "000099"}
+{"city" : "Milledgeville",        	"mascot" : "Peacocks",		"short" : "NYJ", 	"homeText" : "FFFFFF",	"homeMain" : "125740",	"homeSecondary" : "000099",	"awayText" : "125740",	"awayMain" : "BDBDBD",  "awaySecondary" : "000099"}]
