@@ -3,8 +3,8 @@
 {"city" : "Madison",   	"mascot" : "Architects",		"short" : "MAD", 	"homeText" : "FFFFFF",	"homeMain" : "149DAC",	"homeSecondary" : "000000",	"awayText" : "149DAC",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Snellville",     	"mascot" : "Creeks",			"short" : "SNL", 	"homeText" : "FFFFFF",	"homeMain" : "AA0000",	"homeSecondary" : "B3995D",	"awayText" : "AA0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "B3995D"},
 {"city" : "McDonough",   	"mascot" : "Commodores",	    "short" : "MCD", 	"homeText" : "FFFFFF",	"homeMain" : "000066",	"homeSecondary" : "FF0000",	"awayText" : "000066",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF0000"},
-{"city" : "Atlanta",  		"mascot" : "Railmen",	    "short" : "CHI", 	"homeText" : "FFFFFF",	"homeMain" : "880000",	"homeSecondary" : "ABABAB",	"awayText" : "880000",	"awayMain" : "FFFFFF",  "awaySecondary" : "ABABAB"},
-{"city" : "Carrolton",    	"mascot" : "Jazz",	    	"short" : "DET", 	"homeText" : "B0B7BC",	"homeMain" : "0076B6",	"homeSecondary" : "B0B7BC",	"awayText" : "0076B6",	"awayMain" : "FFFFFF",  "awaySecondary" : "0076B6"},
+{"city" : "Atlanta",  		"mascot" : "Railmen",	    "short" : "ATL", 	"homeText" : "FFFFFF",	"homeMain" : "880000",	"homeSecondary" : "ABABAB",	"awayText" : "880000",	"awayMain" : "FFFFFF",  "awaySecondary" : "ABABAB"},
+{"city" : "Carrolton",    	"mascot" : "Jazz",	    	"short" : "CAR", 	"homeText" : "B0B7BC",	"homeMain" : "0076B6",	"homeSecondary" : "B0B7BC",	"awayText" : "0076B6",	"awayMain" : "FFFFFF",  "awaySecondary" : "0076B6"},
 {"city" : "Rome",      	"mascot" : "Legionaries",		"short" : "ROM", 	"homeText" : "FFFFFF",	"homeMain" : "990000",	"homeSecondary" : "E8E800",	"awayText" : "990000",	"awayMain" : "FFFFFF",  "awaySecondary" : "E8E800"},
 {"city" : "Newnan",  	"mascot" : "Judges",		"short" : "NEW", 	"homeText" : "FFFFFF",	"homeMain" : "4F2683",	"homeSecondary" : "FFC62F",	"awayText" : "4F2683",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFC62F"},
 {"city" : "Lincolnton", 	"mascot" : "Lakers",			"short" : "LIN", 	"homeText" : "FFFFFF",	"homeMain" : "003399",	"homeSecondary" : "ADADAD",	"awayText" : "003399",	"awayMain" : "FFFFFF",  "awaySecondary" : "ADADAD"},
@@ -18,7 +18,7 @@
 {"city" : "Valdosta",    	"mascot" : "Plainsmen",	  	"short" : "VAL", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "66FF33",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "66FF33"},
 {"city" : "Tifton",     	"mascot" : "Aggies",		"short" : "TIF", 	"homeText" : "FFFFFF",	"homeMain" : "00CC00",	"homeSecondary" : "00FFFF",	"awayText" : "00CC00",	"awayMain" : "FFFFFF",  "awaySecondary" : "00FFFF"},
 {"city" : "Thomasville",  	"mascot" : "Chargers",		"short" : "THO", 	"homeText" : "FFFFFF",	"homeMain" : "0080C6",	"homeSecondary" : "FFC20E",	"awayText" : "0080C6",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFC20E"},
-{"city" : "Moultrie",       "mascot" : "Generals",			"short" : "LV", 	"homeText" : "A5ACAF",	"homeMain" : "006600",	"homeSecondary" : "A5ACAF",	"awayText" : "006600",	"awayMain" : "FFFFFF",  "awaySecondary" : "A5ACAF"},
+{"city" : "Moultrie",       "mascot" : "Generals",			"short" : "MOU", 	"homeText" : "A5ACAF",	"homeMain" : "006600",	"homeSecondary" : "A5ACAF",	"awayText" : "006600",	"awayMain" : "FFFFFF",  "awaySecondary" : "A5ACAF"},
 {"city" : "La Grange", 		"mascot" : "Engineers",		"short" : "LAG", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "241773",	"awayText" : "241773",	"awayMain" : "FFFFFF",  "awaySecondary" : "9E7C0C"},
 {"city" : "Lumpkin",    	"mascot" : "Pumpkins",		"short" : "LUM", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "FB4F14",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FB4F14"},
 {"city" : "Columbus",		"mascot" : "Frontiermen",			"short" : "COL", 	"homeText" : "FFFFFF",	"homeMain" : "311D00",	"homeSecondary" : "FF3C00",	"awayText" : "311D00",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF3C00"},
@@ -30,4 +30,4 @@
 {"city" : "Macon",	"mascot" : "Missionaries",		"short" : "MAC", 	"homeText" : "FFFFFF",	"homeMain" : "00338D",	"homeSecondary" : "C60C30",	"awayText" : "00338D",	"awayMain" : "FFFFFF",  "awaySecondary" : "C60C30"},
 {"city" : "Perry",   "mascot" : "Thrillride",		"short" : "PER", 	"homeText" : "FFFFFF",	"homeMain" : "008E97",	"homeSecondary" : "FC4C02",	"awayText" : "008E97",	"awayMain" : "FFFFFF",  "awaySecondary" : "FC4C02"},
 {"city" : "Warner Robins",   		"mascot" : "Alphas",		"short" : "WR", 	"homeText" : "FFFFFF",	"homeMain" : "002244",	"homeSecondary" : "C60C30",	"awayText" : "002244",	"awayMain" : "FFFFFF",  "awaySecondary" : "C60C30"},
-{"city" : "Milledgeville",        	"mascot" : "Peacocks",		"short" : "NYJ", 	"homeText" : "FFFFFF",	"homeMain" : "125740",	"homeSecondary" : "000099",	"awayText" : "125740",	"awayMain" : "BDBDBD",  "awaySecondary" : "000099"}
+{"city" : "Milledgeville",        	"mascot" : "Peacocks",		"short" : "MIL", 	"homeText" : "FFFFFF",	"homeMain" : "125740",	"homeSecondary" : "000099",	"awayText" : "125740",	"awayMain" : "BDBDBD",  "awaySecondary" : "000099"}
